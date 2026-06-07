@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Node (only if a bundler is added later; the browser app itself is build-less)
+node_modules/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local artifacts
+*.log
+.cache/
